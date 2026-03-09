@@ -16,7 +16,7 @@
 
 ![alt text](https://raw.githubusercontent.com/hawk0774/balancer-yandex/main/Screenshot_9.png)
 
-##Удаляем две машины, обновляем страницу и видим что все работает.
+# Удаляем две машины, обновляем страницу и видим что все работает.
 
 ![alt text](https://raw.githubusercontent.com/hawk0774/balancer-yandex/main/Screenshot_10.png)
 
